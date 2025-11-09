@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
+![shiny UI screenshot](assets/image-name.pnassets/WhatsApp Image 2025-11-09 at 20.14.37.jpeg)
 
 > **An Agentic AI System for Fair News Consumption**
 
@@ -575,3 +576,4 @@ By revealing how bias manifests in text, we transform AI into a means of **educa
 *Promoting media literacy and responsible information consumption, one article at a time.*
 
 </div>
+
