@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green)
 
-![shiny UI screenshot](assets/image-name.pnassets/WhatsApp Image 2025-11-09 at 20.14.37.jpeg)
 
 > **An Agentic AI System for Fair News Consumption**
 
